@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently preparing for Exams 
- 
-                🌱
+ 🔭 I’m currently preparing for Exams 🌱
 
 💬 Ask me here **, anything [here](https://github.com/Jojoba96)**
 

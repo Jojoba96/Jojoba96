@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently preparing for Exams 
  
- 🌱 I’m currently learning **Docker, Python, AWS, Oracle Cloud, N8N automation**
+                🌱
 
-💬 Ask me about **PHP, Web App, ... or anything [here](https://github.com/Jojoba96)**
+💬 Ask me here **, anything [here](https://github.com/Jojoba96)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
